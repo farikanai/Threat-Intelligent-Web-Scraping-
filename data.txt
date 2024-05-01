@@ -1,0 +1,2 @@
+the webscraper.py is the script i had been working on. it writes to a text file.
+i was in the process of trying to implement pagination. But i got stuck and the file writing operation is not working properly 
